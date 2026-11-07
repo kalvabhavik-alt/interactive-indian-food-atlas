@@ -1172,18 +1172,19 @@
         "photo": {
           "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Stall_at_Sarafa_Bajar.jpg",
           "subject": "context",
-          "title": "Stall at Sarafa Bajar",
-          "creator": "Arya Joshi",
+          "title": "A plate of authentic Indori Poha",
+          "creator": "Community Contribution",
           "licence": "CC BY-SA 4.0",
           "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stall_at_Sarafa_Bajar.jpg",
-          "alt": "A plate of Indori poha served with jalebi",
-          "caption": "Hot Indori poha served with jalebi",
+          "alt": "A plate of fresh Indori poha garnished with sev, onions, coriander and pomegranate",
+          "caption": "Freshly prepared Indori poha topped with crunchy sev, chopped onions, and pomegranate seeds",
           "fallback": null,
-          "width": 3072,
-          "height": 4080
+          "width": 335,
+          "height": 597,
+          "local": "/images/dishes/indori-poha-stage-3.webp"
         },
-        "caption": "Hot Indori poha served with jalebi",
+        "caption": "Freshly prepared Indori poha topped with crunchy sev, chopped onions, and pomegranate seeds",
         "label": "Recipe"
       },
       "plated": {
